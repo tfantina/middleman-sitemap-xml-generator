@@ -1,0 +1,10 @@
+# Ignore bundler lock file
+Gemfile.lock
+
+# Ignore pkg folder
+pkg
+
+.bundle
+tmp
+spec/reports
+vendor
